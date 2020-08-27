@@ -12,15 +12,8 @@
   }
 
   #img-div{
-      margin:20px;
-      padding:50px;
-      background:white;
-  }
-
-  img{
-      max-width:100%;
-      height:auto;
-      display:block;
+      padding:0px 0px 0px 20px
+      
   }
   
   #img-caption {
